@@ -1,5 +1,12 @@
-### Hi there 👋
+## Hi there 👋
 
+Here are some proof-of-concept works to learn new things and some fun...
+
+
+
+Check my repositories to have fun.
+
+### I ❤️  Coding
 <!--
 **ardacetinkaya/ardacetinkaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 
