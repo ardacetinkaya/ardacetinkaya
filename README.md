@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there,
 
 Here are some proof-of-concept works to learn new things and some fun...
 
