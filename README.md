@@ -5,7 +5,10 @@ Here are some proof-of-concept works to learn new things...
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ardacetinkaya&layout=compact)](#)
+[![Top Langs](https://ardacetinkaya-github-readme-stats.vercel.app/api/top-langs/?username=ardacetinkaya&layout=compact)](#)
+
+[![Repositories](https://ardacetinkaya-github-readme-stats.vercel.app/api/repos/?username=ardacetinkaya&top=7)](#)
+
 
 ### I ❤️  Coding
 
