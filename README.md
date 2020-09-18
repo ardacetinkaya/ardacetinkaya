@@ -7,7 +7,7 @@ Here are some proof-of-concept works to learn new things...
 
 [![Top Langs](https://ardacetinkaya-github-readme-stats.vercel.app/api/top-langs/?username=ardacetinkaya&layout=compact)](#)
 
-[![Repositories](https://ardacetinkaya-github-readme-stats.vercel.app/api/repos/?username=ardacetinkaya&top=7)](#)
+[![Repositories](https://ardacetinkaya-github-readme-stats.vercel.app/api/repos/?username=ardacetinkaya&top=7)](https://github.com/ardacetinkaya?tab=repositories)
 
 
 ### I ❤️  Coding
