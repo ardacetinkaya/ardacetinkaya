@@ -1,14 +1,15 @@
 ## Hi there,
 
-Here are some proof-of-concept works to learn new things and some fun...
+Here are some proof-of-concept works to learn new things...
 
-
-
-Check my repositories to have fun.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ardacetinkaya&layout=compact)](#)
 
 ### I ❤️  Coding
+
+👇🏻 <sub>Check my repositories to have fun.</sub>
+
+
 <!--
 **ardacetinkaya/ardacetinkaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
