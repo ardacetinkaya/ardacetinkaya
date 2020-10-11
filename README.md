@@ -2,13 +2,12 @@
 
 Here are some proof-of-concept works to learn new things...
 
-
-
-
-[![Top Langs](https://ardacetinkaya-github-readme-stats.vercel.app/api/top-langs/?username=ardacetinkaya&layout=compact)](#)
-
-[![Repositories](https://ardacetinkaya-github-readme-stats.vercel.app/api/repos/?username=ardacetinkaya&top=7)](https://github.com/ardacetinkaya?tab=repositories)
-
+<a href="#">
+  <img src="https://ardacetinkaya-github-readme-stats.vercel.app/api/repos/?username=ardacetinkaya&top=6" />
+</a>
+<a href="#">
+  <img src="https://ardacetinkaya-github-readme-stats.vercel.app/api/top-langs/?username=ardacetinkaya&layout=compact" />
+</a>
 
 ### I ❤️  Coding
 
@@ -16,6 +15,8 @@ Here are some proof-of-concept works to learn new things...
 
 
 <!--
+[![Top Langs](https://ardacetinkaya-github-readme-stats.vercel.app/api/top-langs/?username=ardacetinkaya&layout=compact)](#)
+[![Repositories](https://ardacetinkaya-github-readme-stats.vercel.app/api/repos/?username=ardacetinkaya&top=7)](https://github.com/ardacetinkaya?tab=repositories)
 **ardacetinkaya/ardacetinkaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
