@@ -8,7 +8,7 @@
 🧰 Currently my backpack is full with .NET, ASP.NET Core, Docker, Infra-as-code, microservices and DevOps concepts and more...(I need a new backpack 😀)<br />
 📣 Sometimes I shout out with <a href="https://twitter.com/ArdaCetinkaya" target="_blank">Twitter</a>😀
 <br /><br />
-📅 Nowadays I am providing solutions in Azure ☁ for enterprises.<br />
+📅 Nowadays I am providing solutions in Azure ☁  amd help companies for cloud native solutions.<br />
 
 <br /><br /><br />👇🏻 Here are some proof-of-concept works to learn new things, check my repositories to have fun.<br />
     </td>
