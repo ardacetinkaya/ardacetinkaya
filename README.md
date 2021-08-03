@@ -13,7 +13,7 @@
 <br /><br /><br />👇🏻 Here are some proof-of-concept works to learn new things, check my repositories to have fun.<br />
     </td>
     <td valign="top" align="center"><img src="https://user-images.githubusercontent.com/4550197/127515000-57c59ad6-e852-4291-88b0-6a0a2b6365a9.png" width="40%"/></td></tr>
-   <tr><td><a href="#"> <img src="https://ardacetinkaya-github-readme-stats.vercel.app/api/repos/?username=ardacetinkaya&top=6" /></a><span align="right"><h3>I ❤️  Coding</h3></span></td></tr>
+   <tr><td><a href="https://github.com/ardacetinkaya?tab=repositories"> <img src="https://ardacetinkaya-github-readme-stats.vercel.app/api/repos/?username=ardacetinkaya&top=6" /></a><span align="right"><h3>I ❤️  Coding</h3></span></td></tr>
 </table>
 
 
