@@ -5,10 +5,11 @@
 👨🏼‍💻 A passionate software developer. I solve complicated problems in a way that computers can understand to provide solutions to people. I do lead and help teams to do their best. I do analyze and think about the suitable design and then implement the necessary solutions. And of course, I do write “code”.<br /><br />
 📄 To know about my experiences, visit my <a href="https://www.linkedin.com/in/ardacetinkaya/" target="_blank">LinkedIn</a> profile.<br />
 📝 I try to share my experiences and learnings in my  <a href="https://www.minepla.net" target="_blank">Blog(TR)</a> <br />
-🧰 Currently my backpack is full with .NET, ASP.NET Core, Docker, Infra-as-code, microservices and DevOps concepts and more...(I need a new backpack 😀)<br />
+🧰 Currently my backpack is full and solid with .NET, ASP.NET Core, Docker, Azure services, Cloud-native approches, Infra-as-code, microservices and DevOps concepts.<br />
 📣 Sometimes I shout out with <a href="https://twitter.com/ArdaCetinkaya" target="_blank">Twitter</a>😀
 <br /><br />
-📅 Nowadays I am providing solutions in Azure ☁  and help companies for cloud native solutions.<br />
+
+📅 Nowadays( >October,2022) I am providing solutions in AWS ☁ with event-driven architectures and serverless approaches and help companies for cloud transformations.<br />
 
 <br /><br /><br />👇🏻 Here are some proof-of-concept works to learn new things, check my repositories to have fun.<br />
     </td>
